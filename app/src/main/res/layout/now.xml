@@ -7,8 +7,12 @@
     <FrameLayout
         android:id="@+id/titleLayout"
         android:layout_width="match_parent"
+<<<<<<< HEAD
         android:layout_height="70dp"
         android:fitsSystemWindows="true">
+=======
+        android:layout_height="70dp">
+>>>>>>> master
         <Button
             android:layout_width="30dp"
             android:layout_height="30dp"
